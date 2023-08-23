@@ -1,6 +1,6 @@
 # Task3_VOIS
 #Python Task 
-###Load the data inside the provided CSV file into a Data Frame and perform the following:
+#Load the data inside the provided CSV file into a Data Frame and perform the following:
 
 1- Remove any duplicates in the table
 2- Remove any decimal places in the Age column
