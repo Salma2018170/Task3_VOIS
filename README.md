@@ -1,9 +1,8 @@
 # Task3_VOIS
 # Python Task 
 **Precondation** 
-1. install  
-2. Python 3.11.4
-install pyCharm IDE
+1. install Python 3.11.4
+2. install pyCharm IDE
 #
 **This Repo oad the data inside the provided CSV file into a Data Frame and perform the following:**
 1. Remove any duplicates in the table
