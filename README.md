@@ -4,7 +4,7 @@
 1. install Python 3.11.4
 2. install pyCharm IDE
 #
-**This Repo oad the data inside the provided CSV file into a Data Frame and perform the following:**
+**This Repo load the data inside the provided CSV file into a Data Frame and perform the following:**
 1. Remove any duplicates in the table
 2. Remove any decimal places in the Age column
 3. Convert the USD salary to EGP
